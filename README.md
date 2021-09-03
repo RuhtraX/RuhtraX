@@ -1,4 +1,5 @@
-### Hi there 👋
+![](https://github.com/RuhtraX/github-stats/blob/master/generated/overview.svg)
+![](https://github.com/RuhtraX/github-stats/blob/master/generated/languages.svg)
 
 <!--
 **RuhtraX/RuhtraX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
